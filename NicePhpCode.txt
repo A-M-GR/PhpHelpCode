@@ -12,7 +12,7 @@ $counter =1;
 	
 	echo '<ol>';
 	
-	echo "<li value = $counter>" Hello world" </li>";  //  value == $counter
+	echo "<li value = $counter> hello world </li>";  //  value == $counter
 	
 	$counter++; 
      
