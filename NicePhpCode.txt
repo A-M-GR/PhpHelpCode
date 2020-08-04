@@ -1,0 +1,21 @@
+
+<?php
+
+
+
+
+
+$counter =1;
+
+
+// you can put a loop here 
+	
+	echo '<ol>';
+	
+	echo "<li value = $counter>" Hello world" </li>";  //  value == $counter
+	
+	$counter++; 
+     
+	 echo '</ol>';
+
+?>
